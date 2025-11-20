@@ -1,0 +1,61 @@
+RowID,Year,Company,Headcount,Class,FemalePct,FemaleHeadcount
+1,2019,Accenture,"505,000",Consulting & Technology Services,44,222200
+2,2020,Accenture,"506,000",Consulting & Technology Services,45,227700
+3,2021,Accenture,"624,000",Consulting & Technology Services,46,287040
+4,2022,Accenture,"721,000",Consulting & Technology Services,47,338870
+5,2023,Accenture,"733,000",Consulting & Technology Services,48,351840
+6,2019,Amazon,"798,000",BigTech,42.7,340746
+7,2020,Amazon,"1,298,000",BigTech,44,571120
+8,2021,Amazon,"1,608,000",BigTech,44.3,712344
+9,2022,Amazon,"1,541,000",BigTech,43.1,664171
+10,2023,Amazon,"1,525,000",BigTech,44.1,672525
+11,2019,Bain,"11,000",MBB,44,4840
+12,2020,Bain,"12,200",MBB,45,5490
+13,2021,Bain,"14,200",MBB,45,6390
+14,2022,Bain,"18,400",MBB,46,8464
+15,2023,Bain,"19,000",MBB,46,8740
+16,2019,BCG,"21,000",MBB,43,9030
+17,2020,BCG,"22,000",MBB,44,9680
+18,2021,BCG,"25,000",MBB,45,11250
+19,2022,BCG,"30,000",MBB,46,13800
+20,2023,BCG,"32,000",MBB,47,15040
+21,2019,Capgemini,"219,314",Consulting & Technology Services,33,72374
+22,2020,Capgemini,"300,000",Consulting & Technology Services,33.7,101100
+23,2021,Capgemini,"324,684",Consulting & Technology Services,35.8,116237
+24,2022,Capgemini,"359,560",Consulting & Technology Services,37.8,135914
+25,2023,Capgemini,"340,400",Consulting & Technology Services,38.8,132075
+26,2019,Deloitte,"312,200",Big4,45,140490
+27,2020,Deloitte,"334,800",Big4,45,150660
+28,2021,Deloitte,"345,370",Big4,45,155417
+29,2022,Deloitte,"411,950",Big4,45,185378
+30,2023,Deloitte,"456,830",Big4,46,210142
+31,2019,ENY,"245,636",Big4,46,112993
+32,2020,ENY,"252,217",Big4,47,118542
+33,2021,ENY,"259,245",Big4,47,121845
+34,2022,ENY,"359,449",Big4,47,168941
+35,2023,ENY,"395,442",Big4,48,189812
+36,2019,Google,"118,899",BigTech,31.6,37572
+37,2020,Google,"135,301",BigTech,32,43296
+38,2021,Google,"156,500",BigTech,32.5,50863
+39,2022,Google,"190,234",BigTech,33.9,64489
+40,2023,Google,"182,502",BigTech,34.1,62233
+41,2019,IBM,"352,600",Consulting & Technology Services,33.3,117416
+42,2020,IBM,"345,900",Consulting & Technology Services,33.5,115877
+43,2021,IBM,"282,100",Consulting & Technology Services,36.7,103531
+44,2022,IBM,"288,300",Consulting & Technology Services,37.2,107248
+45,2023,IBM,"282,200",Consulting & Technology Services,37.4,105543
+46,2019,McKinsey,"27,000",MBB,45,12150
+47,2020,McKinsey,"34,000",MBB,46,15640
+48,2021,McKinsey,"38,000",MBB,48,18240
+49,2022,McKinsey,"45,000",MBB,48,21600
+50,2023,McKinsey,"45,000",MBB,48,21600
+51,2019,Microsoft,"144,106",BigTech,29.2,42079
+52,2020,Microsoft,"163,000",BigTech,30.2,49226
+53,2021,Microsoft,"181,000",BigTech,30.9,55929
+54,2022,Microsoft,"221,000",BigTech,32.7,72267
+55,2023,Microsoft,"238,000",BigTech,33.1,78778
+56,2019,PWC,"276,005",Big4,46,126962
+57,2020,PWC,"284,258",Big4,46,130759
+58,2021,PWC,"295,371",Big4,47,138824
+59,2022,PWC,"327,947",Big4,46,150856
+60,2023,PWC,"364,232",Big4,47,171189

@@ -1,0 +1,1001 @@
+"Sex","Job","Age","Salary","Experience","Education","Direction","Awards","smoker"
+"Female","Warehouse Associate",19,78021,2,"Masters","Administration",6970,0
+"Male","Software Engineer",58,154039,5,"Masters","Engineering",7304,0
+"Female","Driver",42,106788,4,"Masters","Management",8974,0
+"Male","IT",33,88749,3,"College","Management",7433,0
+"Male","Data Scientist",19,58054,2,"High School","Operations",9585,1
+"Male","Manager",59,124782,1,"PhD","Administration",4618,0
+"Female","Driver",61,107064,2,"PhD","Engineering",4202,0
+"Female","Marketing Associate",23,59251,4,"Masters","Engineering",8596,1
+"Female","Graphic Designer",65,130251,4,"High School","Operations",7750,1
+"Male","Graphic Designer",18,75506,4,"High School","Sales",9289,0
+"Male","Software Engineer",36,130826,5,"Masters","Engineering",9694,0
+"Female","Warehouse Associate",30,86220,5,"Masters","Administration",9583,0
+"Female","Marketing Associate",38,71772,5,"High School","Management",5764,0
+"Male","IT",35,98423,4,"College","Management",3879,0
+"Female","IT",62,111120,3,"College","Management",6536,0
+"Female","Data Scientist",36,76523,3,"High School","Operations",7122,0
+"Male","Financial Analyst",55,84683,1,"College","Operations",4476,1
+"Female","Marketing Associate",44,68364,2,"PhD","Management",4076,0
+"Male","Software Engineer",26,68466,2,"PhD","Operations",8384,0
+"Female","Driver",51,97789,2,"PhD","Management",3536,0
+"Female","Software Engineer",28,112491,5,"College","Engineering",8727,0
+"Female","Marketing Associate",58,109931,5,"Masters","Operations",5878,0
+"Female","Data Scientist",45,129226,5,"Masters","Sales",6912,0
+"Male","Manager",60,111896,2,"High School","Management",5597,0
+"Female","Graphic Designer",26,71182,2,"College","Engineering",10015,1
+"Female","Graphic Designer",37,104082,3,"Masters","Management",5477,0
+"Male","IT",58,131275,5,"College","Management",6997,0
+"Female","IT",59,110627,3,"College","Sales",2041,0
+"Female","Graphic Designer",55,111502,3,"College","Administration",4413,0
+"Female","Marketing Associate",64,95687,2,"PhD","Sales",7279,0
+"Male","IT",36,109832,4,"High School","Sales",3528,0
+"Female","IT",18,45747,1,"Masters","Sales",4890,0
+"Female","IT",44,132267,5,"PhD","Operations",5679,0
+"Male","Warehouse Associate",61,106233,3,"High School","Management",5792,1
+"Male","Financial Analyst",45,85947,2,"High School","Administration",3909,0
+"Male","Sales Associate",28,118653,5,"Masters","Administration",7036,1
+"Male","Software Engineer",25,81057,4,"High School","Administration",5259,0
+"Female","Warehouse Associate",41,88994,3,"Masters","Engineering",8873,0
+"Male","Driver",25,43076,1,"College","Engineering",5829,0
+"Female","Warehouse Associate",22,114733,5,"PhD","Operations",6290,0
+"Male","Financial Analyst",31,79142,1,"PhD","Engineering",5445,1
+"Female","Graphic Designer",63,106204,4,"College","Operations",4534,0
+"Male","Driver",64,112719,2,"Masters","Operations",3382,0
+"Female","Manager",47,106916,3,"High School","Management",3959,1
+"Female","Sales Associate",60,130417,5,"PhD","Engineering",4694,0
+"Male","Warehouse Associate",24,85205,3,"PhD","Sales",9792,1
+"Female","IT",47,99472,3,"PhD","Operations",3943,0
+"Male","Graphic Designer",65,116751,5,"Masters","Operations",8505,0
+"Male","Graphic Designer",33,83758,3,"Masters","Management",8498,0
+"Male","Sales Associate",64,120579,3,"High School","Management",4687,1
+"Male","Data Scientist",62,123333,3,"PhD","Administration",3353,0
+"Female","Driver",28,64008,1,"High School","Management",7185,0
+"Male","Software Engineer",49,142105,5,"Masters","Administration",9653,0
+"Male","Financial Analyst",29,89559,4,"High School","Management",8338,0
+"Female","Driver",39,75901,2,"PhD","Operations",7402,0
+"Female","Marketing Associate",46,86241,3,"College","Management",5814,0
+"Female","Sales Associate",31,52633,1,"College","Management",9516,0
+"Female","Marketing Associate",62,123242,5,"PhD","Operations",5453,0
+"Male","Data Scientist",56,98165,3,"Masters","Engineering",5470,0
+"Female","Manager",32,98519,1,"PhD","Operations",8943,0
+"Female","Marketing Associate",28,73685,5,"Masters","Engineering",4439,0
+"Female","Data Scientist",56,125828,5,"College","Engineering",3961,1
+"Male","Manager",41,123153,5,"College","Administration",4111,0
+"Male","Data Scientist",28,97625,5,"Masters","Administration",7985,1
+"Male","Graphic Designer",46,88571,4,"High School","Administration",7464,1
+"Male","Warehouse Associate",37,83025,3,"High School","Management",8105,0
+"Male","Financial Analyst",65,97376,1,"High School","Administration",2225,0
+"Male","Data Scientist",29,96355,5,"PhD","Administration",9784,0
+"Male","Driver",57,135781,4,"College","Sales",6042,0
+"Male","Manager",19,119162,5,"PhD","Sales",9395,1
+"Female","Data Scientist",29,59458,1,"College","Operations",7939,0
+"Male","Graphic Designer",46,102736,4,"High School","Engineering",9736,0
+"Male","Manager",23,110594,3,"College","Sales",6753,0
+"Female","Financial Analyst",29,88047,4,"Masters","Administration",8459,0
+"Female","Financial Analyst",18,66935,2,"High School","Operations",6508,0
+"Male","Manager",47,155826,4,"Masters","Engineering",4964,0
+"Male","Manager",43,152625,4,"PhD","Management",4702,0
+"Male","Manager",27,83262,1,"High School","Operations",6884,0
+"Female","Marketing Associate",54,112507,5,"PhD","Engineering",7460,0
+"Female","Graphic Designer",44,72248,2,"Masters","Administration",3634,0
+"Female","IT",33,84638,4,"College","Management",9409,0
+"Male","Marketing Associate",47,86516,3,"Masters","Operations",8049,0
+"Female","IT",47,103416,3,"PhD","Administration",5536,0
+"Female","Graphic Designer",37,89411,4,"College","Engineering",9522,0
+"Female","Marketing Associate",59,98796,3,"High School","Operations",3042,0
+"Female","Marketing Associate",65,80789,1,"Masters","Administration",1884,0
+"Female","Data Scientist",22,74523,3,"High School","Engineering",9972,0
+"Male","Warehouse Associate",25,68384,1,"College","Administration",7443,0
+"Female","Financial Analyst",19,84007,3,"College","Sales",8990,0
+"Male","Data Scientist",18,59212,4,"PhD","Administration",10209,0
+"Female","IT",57,64807,1,"High School","Administration",3887,0
+"Female","Sales Associate",57,117202,4,"High School","Management",5068,0
+"Female","Financial Analyst",20,62377,3,"High School","Operations",6999,0
+"Male","Driver",32,69367,2,"Masters","Engineering",6378,0
+"Male","IT",28,95964,5,"High School","Administration",9147,0
+"Male","Graphic Designer",31,69462,1,"PhD","Engineering",8872,0
+"Female","Manager",32,115383,2,"PhD","Management",5878,0
+"Male","Sales Associate",33,100463,5,"Masters","Operations",6332,0
+"Female","Marketing Associate",34,49632,1,"College","Administration",7169,0
+"Male","IT",31,93358,2,"Masters","Sales",3223,1
+"Male","Financial Analyst",20,65164,2,"High School","Operations",7827,1
+"Female","IT",26,111770,5,"PhD","Sales",5345,0
+"Female","Driver",18,42722,2,"Masters","Administration",8515,0
+"Female","Marketing Associate",29,89822,5,"Masters","Administration",8818,0
+"Female","Data Scientist",53,133495,5,"Masters","Engineering",8552,0
+"Male","Software Engineer",19,88814,3,"PhD","Administration",10153,1
+"Female","Sales Associate",61,131608,4,"PhD","Management",6537,0
+"Male","Manager",46,107859,1,"Masters","Sales",6989,0
+"Female","Financial Analyst",63,97797,1,"Masters","Operations",5239,0
+"Female","Data Scientist",27,96584,5,"High School","Administration",5293,0
+"Female","Warehouse Associate",53,127085,5,"College","Engineering",9687,0
+"Male","Software Engineer",32,71278,1,"College","Operations",4701,0
+"Male","Financial Analyst",64,141186,5,"PhD","Operations",3415,0
+"Male","Manager",29,146615,5,"PhD","Engineering",10173,0
+"Male","Software Engineer",24,79208,1,"Masters","Management",8602,0
+"Female","Marketing Associate",50,93805,5,"Masters","Sales",6044,0
+"Male","Sales Associate",18,90780,5,"Masters","Operations",9353,0
+"Female","Financial Analyst",42,113640,5,"College","Engineering",8762,0
+"Female","IT",42,83499,2,"College","Operations",8950,0
+"Male","Financial Analyst",35,90307,4,"College","Administration",7663,0
+"Male","Data Scientist",29,65907,3,"High School","Engineering",7668,1
+"Male","IT",65,165229,5,"Masters","Sales",6506,0
+"Female","Data Scientist",29,73306,4,"High School","Management",7765,0
+"Male","Sales Associate",46,95505,2,"College","Management",4549,1
+"Male","Sales Associate",58,135013,5,"High School","Engineering",8972,0
+"Female","Graphic Designer",39,120294,5,"PhD","Operations",8090,0
+"Male","Manager",48,157169,4,"PhD","Engineering",5798,0
+"Female","Marketing Associate",20,38613,2,"College","Administration",6079,0
+"Male","Software Engineer",49,82277,1,"Masters","Administration",5460,0
+"Male","Software Engineer",52,139841,5,"Masters","Administration",7641,0
+"Female","Data Scientist",58,108296,2,"PhD","Engineering",4708,0
+"Male","IT",19,78113,3,"College","Engineering",9335,0
+"Male","Software Engineer",18,55555,1,"High School","Sales",4390,0
+"Female","Marketing Associate",53,112489,4,"Masters","Management",4237,0
+"Male","Financial Analyst",65,111403,1,"Masters","Sales",5078,0
+"Female","Warehouse Associate",51,87684,3,"High School","Management",8645,0
+"Female","Graphic Designer",48,113465,5,"High School","Operations",3846,0
+"Female","Marketing Associate",38,53839,1,"PhD","Engineering",3270,0
+"Female","Driver",61,129132,4,"PhD","Sales",8472,0
+"Male","Software Engineer",47,126239,4,"Masters","Operations",5396,0
+"Male","Manager",30,125164,4,"PhD","Engineering",5888,0
+"Female","Sales Associate",47,116642,4,"PhD","Engineering",4621,0
+"Male","IT",18,69855,4,"Masters","Administration",8347,0
+"Female","Warehouse Associate",42,90005,1,"Masters","Engineering",6631,0
+"Female","Data Scientist",48,100115,1,"Masters","Management",7679,0
+"Male","Software Engineer",64,109606,1,"Masters","Sales",2193,0
+"Male","Graphic Designer",26,99464,5,"Masters","Engineering",9319,1
+"Female","Sales Associate",57,98321,3,"Masters","Operations",8980,0
+"Male","Financial Analyst",27,99134,4,"PhD","Administration",6255,0
+"Male","Graphic Designer",44,102108,4,"High School","Sales",8339,0
+"Male","Manager",55,163208,5,"High School","Management",4095,1
+"Male","Manager",21,114621,2,"College","Management",3927,0
+"Female","Marketing Associate",52,94763,3,"High School","Sales",5668,0
+"Female","Marketing Associate",34,38855,2,"College","Engineering",4503,0
+"Male","Driver",34,90330,5,"College","Administration",7022,0
+"Male","Driver",54,118093,2,"PhD","Sales",4115,1
+"Male","Warehouse Associate",18,85306,5,"College","Administration",7735,0
+"Male","IT",31,49449,1,"College","Operations",4149,0
+"Female","Driver",55,103242,3,"High School","Engineering",4495,0
+"Male","Financial Analyst",41,98531,3,"Masters","Engineering",6855,0
+"Male","Data Scientist",41,104314,4,"Masters","Administration",6611,1
+"Male","Software Engineer",64,157277,5,"PhD","Sales",4844,0
+"Male","Software Engineer",53,106146,3,"High School","Management",6618,0
+"Female","Sales Associate",32,87585,2,"PhD","Administration",6476,0
+"Male","Warehouse Associate",21,48755,1,"PhD","Management",9931,0
+"Male","Data Scientist",44,83674,1,"High School","Sales",4854,0
+"Female","Marketing Associate",40,100415,4,"Masters","Engineering",3871,0
+"Female","Sales Associate",53,129609,5,"Masters","Operations",7392,0
+"Female","IT",45,113283,4,"PhD","Sales",5404,0
+"Male","Marketing Associate",42,110636,5,"Masters","Management",5239,0
+"Male","Manager",60,131980,1,"College","Sales",3841,1
+"Female","Data Scientist",58,121457,4,"PhD","Management",4723,0
+"Male","Software Engineer",64,118231,2,"High School","Sales",7440,0
+"Male","Data Scientist",20,61589,2,"High School","Operations",3990,0
+"Female","Graphic Designer",22,56954,2,"College","Operations",7550,0
+"Male","Warehouse Associate",34,45915,1,"Masters","Operations",4765,0
+"Male","Warehouse Associate",33,77655,1,"College","Administration",6581,1
+"Female","Data Scientist",30,92067,5,"College","Engineering",9838,0
+"Female","Marketing Associate",61,62644,1,"High School","Administration",3270,0
+"Male","Financial Analyst",38,114421,5,"College","Management",7444,0
+"Male","Software Engineer",18,89474,4,"Masters","Operations",9104,1
+"Female","Marketing Associate",55,72030,2,"High School","Administration",5569,0
+"Female","IT",30,80981,2,"Masters","Engineering",8201,0
+"Male","Financial Analyst",58,126269,4,"College","Operations",6490,0
+"Male","Warehouse Associate",28,59044,2,"High School","Engineering",9368,0
+"Male","Manager",56,149771,4,"Masters","Engineering",5495,0
+"Female","Driver",47,78002,2,"Masters","Operations",5175,0
+"Female","Marketing Associate",50,70374,1,"High School","Operations",7466,1
+"Female","Warehouse Associate",34,56172,1,"High School","Sales",7739,0
+"Male","Manager",40,124891,2,"College","Administration",5436,0
+"Male","Driver",63,128520,4,"PhD","Management",6151,0
+"Male","IT",50,101050,3,"Masters","Management",3879,1
+"Male","Software Engineer",45,81515,1,"High School","Management",5001,0
+"Male","Software Engineer",60,155676,5,"Masters","Sales",6586,1
+"Male","Driver",31,62753,4,"High School","Administration",5735,0
+"Female","IT",58,124847,4,"High School","Sales",3100,0
+"Male","Software Engineer",32,128680,5,"College","Engineering",4677,0
+"Female","Graphic Designer",26,100516,5,"Masters","Administration",6737,0
+"Male","IT",33,106584,5,"Masters","Engineering",5426,0
+"Male","Driver",25,92687,5,"PhD","Engineering",7634,0
+"Male","Manager",20,112854,4,"PhD","Operations",6564,0
+"Male","Financial Analyst",20,78564,3,"PhD","Operations",7875,0
+"Male","Manager",58,179726,4,"PhD","Management",4284,0
+"Male","Marketing Associate",25,65547,4,"College","Operations",6530,0
+"Female","Data Scientist",37,97846,5,"College","Sales",7198,0
+"Male","IT",19,78986,4,"College","Administration",9023,1
+"Male","Financial Analyst",40,88725,3,"PhD","Sales",6243,0
+"Female","Marketing Associate",24,49303,3,"High School","Engineering",6615,0
+"Male","IT",20,74073,2,"PhD","Engineering",8509,1
+"Male","Driver",49,72754,2,"Masters","Operations",8014,1
+"Male","Data Scientist",53,102910,2,"High School","Management",8335,1
+"Female","Driver",65,124530,3,"PhD","Operations",3647,0
+"Male","Sales Associate",58,129425,2,"PhD","Sales",7524,1
+"Female","Graphic Designer",40,55845,1,"College","Operations",6616,0
+"Male","Financial Analyst",24,67749,1,"Masters","Administration",8517,0
+"Male","Data Scientist",41,67040,1,"PhD","Administration",7412,1
+"Female","Warehouse Associate",57,93470,3,"High School","Engineering",8578,0
+"Female","Data Scientist",33,89415,2,"Masters","Sales",9654,0
+"Female","Graphic Designer",49,120697,4,"PhD","Engineering",7205,0
+"Male","Graphic Designer",23,50601,1,"High School","Operations",7351,0
+"Male","Sales Associate",19,94492,4,"PhD","Management",8209,0
+"Male","Software Engineer",39,106896,4,"High School","Sales",7918,0
+"Male","Software Engineer",31,106503,4,"College","Operations",5225,1
+"Female","Marketing Associate",36,82755,3,"PhD","Sales",7325,0
+"Male","Software Engineer",23,79462,2,"PhD","Management",4673,0
+"Male","Manager",30,138163,5,"High School","Sales",3415,0
+"Male","IT",64,92950,1,"Masters","Sales",2125,1
+"Male","Sales Associate",26,78625,2,"High School","Sales",4073,0
+"Male","Software Engineer",18,88482,2,"Masters","Engineering",7385,0
+"Male","Data Scientist",37,78836,2,"PhD","Administration",3588,0
+"Male","Graphic Designer",30,70559,4,"Masters","Management",6497,0
+"Male","Marketing Associate",51,62600,1,"PhD","Sales",4300,1
+"Female","Software Engineer",57,104623,1,"High School","Engineering",3791,0
+"Male","Software Engineer",25,103181,4,"High School","Engineering",4566,1
+"Male","Data Scientist",23,62753,1,"Masters","Administration",7242,1
+"Male","Software Engineer",21,65313,2,"High School","Engineering",4685,0
+"Male","Software Engineer",30,113122,5,"Masters","Engineering",6060,0
+"Female","Financial Analyst",43,116069,5,"College","Sales",6432,0
+"Female","Driver",31,62692,2,"High School","Engineering",8886,1
+"Female","Data Scientist",55,123172,4,"Masters","Administration",5797,0
+"Female","Marketing Associate",45,74305,3,"Masters","Sales",7126,0
+"Male","Sales Associate",61,102473,1,"PhD","Management",8468,0
+"Female","Warehouse Associate",47,94973,2,"College","Administration",7885,0
+"Female","Data Scientist",31,55954,2,"High School","Operations",7999,0
+"Male","Driver",59,120159,3,"College","Operations",4265,0
+"Male","Sales Associate",63,128173,4,"PhD","Operations",8360,0
+"Female","Financial Analyst",27,87608,4,"High School","Administration",7511,0
+"Male","Software Engineer",58,120156,3,"High School","Management",7200,0
+"Female","Marketing Associate",30,38451,1,"Masters","Administration",5562,0
+"Female","Graphic Designer",57,133741,5,"Masters","Sales",4925,0
+"Female","Driver",54,87998,2,"College","Management",7028,0
+"Male","Sales Associate",56,88195,1,"High School","Management",2375,0
+"Male","Graphic Designer",29,70311,2,"PhD","Operations",6235,1
+"Female","Marketing Associate",44,91300,3,"High School","Engineering",3680,0
+"Male","Manager",37,115604,3,"PhD","Administration",4098,0
+"Male","Driver",30,78472,1,"Masters","Operations",8439,0
+"Male","Software Engineer",36,94745,2,"Masters","Administration",5930,0
+"Male","Software Engineer",36,112134,3,"PhD","Management",8587,1
+"Male","Manager",57,135073,3,"Masters","Operations",6898,0
+"Male","Financial Analyst",53,112941,3,"Masters","Administration",7404,0
+"Female","Manager",42,119893,2,"High School","Management",3721,0
+"Male","Driver",35,92760,5,"High School","Administration",4826,0
+"Female","Financial Analyst",46,116758,4,"College","Administration",7744,0
+"Female","Financial Analyst",33,50758,1,"PhD","Administration",5386,0
+"Male","Sales Associate",50,124470,5,"Masters","Engineering",5454,0
+"Female","Warehouse Associate",51,106478,3,"High School","Sales",8744,0
+"Female","Graphic Designer",49,96232,4,"High School","Administration",3697,0
+"Female","Marketing Associate",26,57672,3,"High School","Operations",6476,0
+"Male","Data Scientist",27,57915,1,"College","Engineering",4584,0
+"Female","Graphic Designer",44,90474,3,"College","Sales",3530,1
+"Female","Data Scientist",58,141005,5,"High School","Sales",3384,0
+"Male","IT",52,90024,1,"Masters","Engineering",7350,0
+"Female","Sales Associate",47,105410,4,"College","Administration",6363,0
+"Female","Driver",37,65012,2,"Masters","Administration",8357,0
+"Female","Marketing Associate",62,77742,2,"Masters","Engineering",5430,0
+"Male","Financial Analyst",39,61609,1,"College","Sales",3738,0
+"Female","Software Engineer",22,88037,3,"Masters","Operations",8949,0
+"Male","IT",51,89272,3,"High School","Engineering",2600,0
+"Female","Driver",61,114436,4,"College","Administration",4249,0
+"Female","IT",42,70157,2,"High School","Engineering",6016,0
+"Female","Warehouse Associate",42,125574,5,"PhD","Operations",5688,0
+"Male","Manager",38,135106,3,"Masters","Management",5066,0
+"Male","Financial Analyst",60,123108,2,"PhD","Sales",2244,1
+"Female","Marketing Associate",44,57469,1,"High School","Sales",7539,0
+"Male","Manager",41,119794,2,"Masters","Sales",3712,0
+"Female","Financial Analyst",20,76908,2,"College","Management",4756,0
+"Male","Software Engineer",60,145632,5,"PhD","Management",6439,1
+"Female","Financial Analyst",30,109369,5,"High School","Engineering",10052,1
+"Female","Marketing Associate",33,81249,5,"High School","Management",4845,0
+"Male","Data Scientist",41,117215,5,"High School","Management",4322,1
+"Male","Graphic Designer",22,57398,2,"Masters","Sales",7827,0
+"Female","Marketing Associate",22,36548,1,"PhD","Operations",8090,0
+"Male","Marketing Associate",27,54817,1,"College","Management",6519,0
+"Female","IT",46,102247,3,"PhD","Sales",8307,0
+"Female","Marketing Associate",41,108587,5,"PhD","Management",4275,0
+"Female","Warehouse Associate",24,64624,1,"High School","Management",8253,0
+"Male","Software Engineer",62,124660,3,"High School","Sales",2200,0
+"Female","Driver",35,72038,1,"College","Management",9031,0
+"Female","Marketing Associate",18,34208,2,"High School","Engineering",6620,0
+"Male","Data Scientist",38,101173,5,"College","Administration",9255,0
+"Female","Marketing Associate",56,88820,3,"High School","Engineering",4289,0
+"Female","Marketing Associate",38,76726,2,"PhD","Engineering",4204,0
+"Male","Warehouse Associate",46,87134,4,"High School","Operations",6184,1
+"Female","Marketing Associate",27,44325,1,"High School","Management",8867,0
+"Female","Sales Associate",63,127561,3,"PhD","Engineering",7552,0
+"Male","Manager",62,157410,5,"College","Administration",7840,0
+"Female","Marketing Associate",49,96500,2,"High School","Sales",8092,0
+"Female","Graphic Designer",63,127608,5,"College","Management",6558,0
+"Male","Financial Analyst",47,68643,1,"High School","Management",4674,0
+"Male","Graphic Designer",23,83031,3,"Masters","Management",10240,1
+"Male","Financial Analyst",29,84725,2,"Masters","Operations",3274,1
+"Male","Sales Associate",55,112188,3,"College","Administration",6689,0
+"Male","Warehouse Associate",49,94927,4,"PhD","Operations",6274,1
+"Female","Driver",63,115981,4,"Masters","Management",2661,0
+"Female","Software Engineer",41,86675,1,"PhD","Sales",7947,1
+"Female","Marketing Associate",50,81995,1,"PhD","Administration",7840,0
+"Male","Graphic Designer",62,85702,1,"Masters","Sales",6556,0
+"Male","Driver",55,95898,3,"Masters","Operations",4309,0
+"Male","Marketing Associate",33,53220,2,"PhD","Administration",5153,0
+"Male","Driver",32,90368,4,"PhD","Engineering",8215,0
+"Female","Driver",18,71824,4,"Masters","Sales",6397,0
+"Female","Driver",61,108475,4,"College","Management",4489,0
+"Female","IT",65,121210,4,"Masters","Administration",7949,0
+"Male","Data Scientist",28,68049,2,"High School","Management",6660,1
+"Female","Sales Associate",40,92276,5,"Masters","Operations",9551,0
+"Female","Financial Analyst",48,129406,5,"Masters","Management",7280,0
+"Male","Manager",33,90482,1,"Masters","Sales",7094,0
+"Male","Manager",28,105795,2,"College","Sales",6179,1
+"Male","Software Engineer",36,87848,4,"High School","Administration",5166,0
+"Female","Warehouse Associate",61,120277,3,"Masters","Management",4617,0
+"Male","Data Scientist",38,80937,2,"High School","Sales",8335,0
+"Male","Sales Associate",40,84592,3,"High School","Administration",4635,1
+"Male","Sales Associate",51,96023,1,"High School","Engineering",4148,0
+"Female","Marketing Associate",26,80306,4,"PhD","Operations",9233,0
+"Female","Manager",45,149893,5,"High School","Engineering",5120,1
+"Male","Sales Associate",48,113544,5,"Masters","Engineering",6839,0
+"Male","Software Engineer",37,81547,1,"High School","Sales",3510,1
+"Male","Driver",65,116803,5,"High School","Operations",3431,1
+"Female","Marketing Associate",23,46263,3,"PhD","Administration",9432,0
+"Male","Warehouse Associate",49,109419,4,"High School","Sales",8375,0
+"Female","IT",38,112392,5,"College","Administration",10504,0
+"Female","IT",27,55560,2,"Masters","Administration",4449,0
+"Female","IT",29,72542,3,"Masters","Management",8109,0
+"Female","Financial Analyst",61,139042,4,"Masters","Engineering",2982,0
+"Female","Data Scientist",48,79765,3,"College","Administration",5329,0
+"Female","Sales Associate",52,84132,2,"Masters","Engineering",7204,1
+"Male","Data Scientist",26,90526,3,"Masters","Operations",4191,0
+"Female","Data Scientist",55,138365,5,"Masters","Sales",5359,0
+"Male","Software Engineer",40,98281,2,"High School","Management",5646,1
+"Female","Manager",60,160614,3,"PhD","Management",8354,1
+"Female","Marketing Associate",60,114906,4,"College","Management",4766,0
+"Female","Driver",21,77032,4,"Masters","Sales",8725,0
+"Female","Software Engineer",57,117131,3,"College","Engineering",2324,0
+"Female","Graphic Designer",22,107025,4,"Masters","Operations",6577,0
+"Female","Data Scientist",20,40056,1,"High School","Engineering",7632,0
+"Male","Software Engineer",40,68295,1,"College","Management",7902,0
+"Female","Sales Associate",41,60983,1,"College","Sales",5022,0
+"Male","Sales Associate",57,113031,5,"PhD","Administration",3409,0
+"Male","Software Engineer",36,109136,5,"High School","Operations",4572,0
+"Male","Software Engineer",63,140445,5,"High School","Administration",7905,0
+"Female","Data Scientist",63,115641,5,"High School","Administration",4339,0
+"Female","Financial Analyst",21,91978,4,"Masters","Operations",8647,0
+"Male","Graphic Designer",24,102261,5,"PhD","Engineering",10212,0
+"Female","Marketing Associate",65,106315,5,"Masters","Administration",5618,0
+"Female","Data Scientist",57,87150,1,"High School","Management",6814,0
+"Male","Data Scientist",62,108778,3,"PhD","Sales",4357,1
+"Male","IT",59,79544,1,"PhD","Operations",6760,0
+"Male","Software Engineer",45,89811,2,"Masters","Operations",6471,1
+"Male","Data Scientist",59,96582,1,"Masters","Sales",6350,0
+"Male","Software Engineer",20,66359,2,"Masters","Management",10137,1
+"Female","Data Scientist",33,78910,4,"High School","Operations",5927,0
+"Male","Software Engineer",51,132323,3,"Masters","Engineering",4872,0
+"Female","Marketing Associate",27,73357,3,"PhD","Management",10334,0
+"Male","Software Engineer",29,92099,2,"Masters","Operations",7246,0
+"Female","Sales Associate",61,96900,1,"College","Sales",4157,0
+"Male","Financial Analyst",59,90002,1,"PhD","Management",8123,0
+"Male","Warehouse Associate",64,116774,3,"High School","Operations",6160,1
+"Male","Manager",43,121949,2,"PhD","Management",6739,0
+"Female","Marketing Associate",31,52578,3,"High School","Sales",5538,0
+"Male","Financial Analyst",45,98535,2,"Masters","Management",8001,0
+"Male","Software Engineer",63,124871,2,"College","Operations",7327,1
+"Male","Manager",56,152081,4,"PhD","Administration",4621,1
+"Male","Graphic Designer",44,66611,1,"PhD","Sales",5924,0
+"Female","Graphic Designer",44,100416,4,"High School","Administration",7513,0
+"Female","Data Scientist",21,65816,2,"PhD","Engineering",6817,0
+"Female","Marketing Associate",58,60271,1,"High School","Operations",3927,0
+"Female","Manager",25,119033,5,"Masters","Management",6381,0
+"Female","Marketing Associate",23,62054,3,"PhD","Administration",6955,0
+"Female","Marketing Associate",26,63695,3,"College","Management",8897,0
+"Male","Financial Analyst",47,91905,3,"College","Operations",7614,0
+"Male","Warehouse Associate",56,79274,2,"Masters","Administration",4618,0
+"Female","Sales Associate",29,56745,2,"PhD","Operations",6495,0
+"Male","Driver",49,104657,5,"College","Sales",6839,0
+"Male","Manager",62,117648,1,"PhD","Engineering",4765,0
+"Female","Marketing Associate",65,98575,3,"High School","Engineering",5410,0
+"Female","Graphic Designer",26,74167,3,"PhD","Sales",10346,0
+"Male","Driver",40,68797,2,"College","Engineering",7817,0
+"Male","IT",55,127769,5,"College","Management",8802,0
+"Male","IT",18,47036,1,"High School","Engineering",9130,0
+"Male","Software Engineer",56,107366,3,"College","Operations",7774,1
+"Female","Sales Associate",35,106524,5,"College","Engineering",9941,0
+"Male","IT",62,118314,4,"Masters","Engineering",4892,0
+"Female","Marketing Associate",48,86563,5,"College","Operations",4415,0
+"Female","Marketing Associate",52,97696,3,"PhD","Sales",3888,0
+"Male","Sales Associate",20,37898,1,"College","Operations",6448,1
+"Male","Software Engineer",29,86650,1,"High School","Sales",3518,1
+"Female","Marketing Associate",55,63327,1,"High School","Administration",4066,0
+"Male","IT",50,85648,3,"College","Operations",2728,0
+"Female","IT",49,75811,1,"College","Engineering",5520,0
+"Male","Manager",55,120574,1,"High School","Administration",2683,0
+"Male","Software Engineer",18,97523,5,"PhD","Engineering",10240,1
+"Female","Sales Associate",51,72120,1,"Masters","Management",9084,1
+"Male","Warehouse Associate",33,100465,5,"College","Engineering",5520,1
+"Male","Warehouse Associate",39,77793,3,"PhD","Operations",8093,0
+"Male","Warehouse Associate",35,74829,2,"High School","Administration",4263,0
+"Male","IT",59,98995,2,"Masters","Sales",4596,0
+"Male","IT",47,82126,1,"PhD","Operations",6971,1
+"Female","Warehouse Associate",19,37026,1,"High School","Operations",8636,0
+"Female","Warehouse Associate",28,62260,1,"Masters","Operations",7740,0
+"Male","Driver",21,61018,2,"High School","Sales",5513,0
+"Male","Driver",38,102966,4,"PhD","Engineering",8978,0
+"Male","Financial Analyst",51,113730,4,"PhD","Operations",6578,0
+"Female","Graphic Designer",18,78462,3,"PhD","Operations",8743,0
+"Female","Graphic Designer",55,118762,5,"College","Sales",6545,0
+"Male","Software Engineer",27,96040,4,"PhD","Management",10050,0
+"Male","Software Engineer",59,160460,5,"College","Sales",2930,1
+"Male","Financial Analyst",39,99643,4,"College","Engineering",3789,0
+"Male","IT",40,109345,5,"College","Administration",7791,0
+"Female","Financial Analyst",49,126626,4,"Masters","Sales",7144,0
+"Male","Software Engineer",63,134757,2,"PhD","Engineering",5944,0
+"Female","Graphic Designer",43,80635,1,"PhD","Engineering",4322,1
+"Female","Warehouse Associate",25,92358,4,"Masters","Operations",9611,1
+"Male","Data Scientist",19,80171,5,"PhD","Management",6454,1
+"Female","Sales Associate",50,106279,3,"Masters","Sales",3892,0
+"Female","Warehouse Associate",50,108922,5,"Masters","Engineering",8477,1
+"Female","Marketing Associate",59,93018,3,"Masters","Sales",2730,0
+"Male","Software Engineer",53,89225,1,"High School","Operations",5751,1
+"Male","Software Engineer",27,66084,1,"Masters","Engineering",7769,0
+"Male","Warehouse Associate",24,71371,3,"College","Engineering",5220,0
+"Male","Manager",59,127013,2,"College","Engineering",6124,0
+"Male","Software Engineer",21,91674,4,"High School","Management",9780,0
+"Female","Marketing Associate",35,58807,2,"Masters","Sales",7316,1
+"Male","Sales Associate",21,90386,5,"High School","Engineering",9461,0
+"Female","Marketing Associate",57,79674,3,"College","Operations",6993,0
+"Male","Data Scientist",35,98959,5,"College","Operations",6572,0
+"Female","Financial Analyst",65,96665,2,"High School","Administration",2645,0
+"Female","Data Scientist",40,100505,5,"Masters","Management",4626,0
+"Female","Marketing Associate",37,86036,3,"PhD","Administration",7567,0
+"Male","IT",27,57500,3,"High School","Management",3665,0
+"Male","Manager",21,121682,5,"College","Administration",7189,1
+"Male","Data Scientist",29,67617,1,"High School","Administration",9075,0
+"Female","IT",65,106945,1,"Masters","Administration",2041,0
+"Female","Marketing Associate",24,57782,4,"PhD","Operations",7144,0
+"Male","Graphic Designer",53,93073,2,"High School","Operations",8188,0
+"Female","Driver",52,78750,2,"College","Administration",6666,0
+"Male","Driver",42,111726,4,"PhD","Operations",5989,0
+"Male","IT",34,91066,4,"College","Sales",6257,0
+"Female","Data Scientist",33,71946,3,"High School","Administration",6386,0
+"Male","Software Engineer",31,92928,3,"High School","Operations",9094,0
+"Male","Graphic Designer",29,73142,3,"Masters","Operations",4712,0
+"Male","IT",55,104361,3,"College","Sales",7813,0
+"Male","IT",27,90542,3,"PhD","Operations",7554,0
+"Male","Driver",40,97414,2,"College","Management",8833,0
+"Female","Driver",50,91160,2,"College","Operations",5863,0
+"Male","Warehouse Associate",38,82244,2,"High School","Administration",6020,0
+"Male","Sales Associate",63,85948,1,"High School","Sales",7646,0
+"Female","Driver",51,72827,1,"College","Operations",7285,0
+"Female","Driver",52,78751,1,"High School","Operations",6258,0
+"Female","IT",54,112502,5,"High School","Engineering",3988,0
+"Male","Software Engineer",42,103978,1,"College","Management",5146,0
+"Male","Financial Analyst",29,111019,5,"Masters","Engineering",10042,0
+"Female","IT",32,59377,1,"High School","Engineering",5236,1
+"Female","IT",56,101791,2,"Masters","Management",6083,1
+"Female","Marketing Associate",42,88365,5,"College","Administration",4668,0
+"Female","IT",20,70890,4,"PhD","Operations",10126,0
+"Female","IT",49,108495,3,"College","Management",8668,0
+"Male","Marketing Associate",21,86886,5,"College","Management",9424,1
+"Male","Software Engineer",30,76654,5,"College","Administration",6696,0
+"Female","Sales Associate",62,93268,2,"College","Operations",7657,0
+"Female","Sales Associate",31,77275,3,"High School","Operations",7089,0
+"Male","Warehouse Associate",40,102815,4,"Masters","Sales",9090,0
+"Female","Sales Associate",61,83308,2,"High School","Sales",3653,0
+"Male","Manager",22,90736,4,"Masters","Operations",6219,1
+"Male","Graphic Designer",22,72422,3,"High School","Sales",5697,0
+"Male","Software Engineer",33,87352,2,"PhD","Administration",8435,0
+"Male","Software Engineer",56,139760,5,"PhD","Administration",9229,0
+"Male","Warehouse Associate",26,72945,3,"High School","Sales",7279,0
+"Male","Warehouse Associate",23,92516,4,"High School","Administration",5866,0
+"Female","Financial Analyst",23,78084,4,"High School","Management",5598,0
+"Male","Manager",20,100183,3,"Masters","Operations",6363,1
+"Female","Warehouse Associate",22,68300,2,"Masters","Sales",5953,0
+"Female","Data Scientist",49,71193,3,"College","Operations",8331,0
+"Female","Manager",24,104202,3,"PhD","Sales",8456,0
+"Male","Marketing Associate",47,93054,3,"PhD","Sales",4243,0
+"Male","Financial Analyst",18,97328,4,"PhD","Engineering",9874,1
+"Female","Sales Associate",19,90426,4,"College","Management",5020,0
+"Female","Marketing Associate",41,36972,2,"High School","Administration",7058,0
+"Male","Financial Analyst",31,82790,3,"PhD","Administration",5826,1
+"Female","Marketing Associate",48,86538,4,"High School","Administration",4212,1
+"Male","IT",62,105771,2,"PhD","Management",2978,0
+"Female","Driver",50,86122,2,"High School","Engineering",6295,0
+"Male","Sales Associate",54,92468,3,"College","Administration",3242,0
+"Female","Data Scientist",38,127156,5,"Masters","Administration",9979,0
+"Male","Financial Analyst",49,102716,4,"High School","Engineering",8290,0
+"Male","Data Scientist",23,83894,3,"High School","Sales",6922,1
+"Male","Software Engineer",62,138184,3,"PhD","Engineering",4664,0
+"Female","Graphic Designer",47,108731,5,"High School","Operations",4793,0
+"Female","Data Scientist",34,82345,1,"PhD","Administration",7211,1
+"Male","Graphic Designer",21,72301,4,"Masters","Engineering",8391,0
+"Male","Software Engineer",26,77309,2,"College","Administration",7957,0
+"Male","IT",43,98515,4,"College","Operations",9090,1
+"Male","Manager",18,115567,5,"Masters","Management",4775,1
+"Female","Financial Analyst",26,48570,2,"College","Administration",6604,0
+"Female","Marketing Associate",46,69268,2,"PhD","Sales",7106,0
+"Male","Manager",57,143189,4,"Masters","Administration",6321,0
+"Male","Driver",24,81301,3,"College","Engineering",5713,1
+"Male","Sales Associate",51,110746,4,"PhD","Operations",5947,0
+"Male","Graphic Designer",53,107065,4,"High School","Operations",3652,0
+"Male","IT",53,126828,5,"PhD","Management",9310,0
+"Male","Sales Associate",53,101133,5,"Masters","Management",4700,0
+"Female","Manager",53,129885,3,"High School","Operations",7314,0
+"Female","Graphic Designer",51,108241,3,"College","Operations",8602,0
+"Male","Financial Analyst",30,83620,1,"Masters","Sales",7864,0
+"Female","IT",26,81325,3,"College","Sales",5647,0
+"Female","Marketing Associate",33,46903,2,"High School","Operations",8130,0
+"Male","Software Engineer",20,92289,4,"PhD","Engineering",6643,0
+"Female","Financial Analyst",30,114007,5,"Masters","Administration",9248,0
+"Female","Marketing Associate",39,103384,5,"College","Sales",9168,0
+"Female","Data Scientist",65,121239,2,"PhD","Operations",3078,0
+"Female","Marketing Associate",56,107370,5,"High School","Operations",4916,0
+"Male","Graphic Designer",49,126100,5,"Masters","Operations",6336,0
+"Female","Marketing Associate",56,81661,3,"High School","Sales",4965,0
+"Male","Software Engineer",18,80355,3,"College","Operations",9945,0
+"Female","Marketing Associate",34,79707,5,"High School","Sales",7196,0
+"Male","IT",36,65225,2,"Masters","Engineering",6462,0
+"Female","Marketing Associate",45,85161,4,"College","Engineering",6682,0
+"Female","Driver",58,130720,5,"High School","Sales",7246,0
+"Female","Warehouse Associate",51,121376,5,"High School","Management",7832,0
+"Female","Marketing Associate",33,49830,1,"High School","Engineering",8543,0
+"Female","Sales Associate",35,84844,1,"PhD","Sales",7205,0
+"Male","Financial Analyst",39,116875,4,"Masters","Engineering",5479,0
+"Female","Marketing Associate",36,77223,3,"Masters","Sales",5272,0
+"Male","Financial Analyst",35,98900,5,"PhD","Operations",7960,0
+"Female","IT",43,127062,5,"PhD","Administration",9619,0
+"Female","Marketing Associate",62,77584,1,"College","Sales",4524,0
+"Female","Marketing Associate",56,99543,4,"Masters","Sales",4442,1
+"Female","Sales Associate",57,101423,3,"Masters","Operations",3641,0
+"Female","Sales Associate",65,142505,5,"PhD","Sales",4214,0
+"Male","Data Scientist",45,122037,5,"PhD","Administration",8147,0
+"Male","Software Engineer",59,124817,4,"High School","Operations",7268,0
+"Female","Graphic Designer",61,91030,1,"Masters","Engineering",3318,0
+"Male","Software Engineer",36,93855,1,"Masters","Operations",4099,0
+"Male","Driver",36,88213,3,"PhD","Operations",8581,0
+"Female","Marketing Associate",24,82338,5,"Masters","Operations",7414,1
+"Female","Driver",20,66203,3,"College","Management",5627,0
+"Male","Driver",39,100183,4,"High School","Engineering",8832,0
+"Male","Data Scientist",58,86651,1,"High School","Operations",7250,0
+"Male","Manager",59,133910,3,"College","Engineering",5795,1
+"Male","Manager",42,125339,4,"College","Sales",6019,0
+"Male","Graphic Designer",22,40187,1,"PhD","Administration",8549,0
+"Female","Warehouse Associate",39,77584,2,"College","Engineering",9798,0
+"Male","Sales Associate",60,112604,3,"College","Operations",3366,1
+"Female","Warehouse Associate",45,106963,5,"High School","Administration",5084,0
+"Male","Data Scientist",62,101284,2,"High School","Operations",4993,0
+"Male","Financial Analyst",39,87409,3,"PhD","Management",7168,1
+"Male","Graphic Designer",56,114048,4,"Masters","Management",5097,0
+"Male","IT",23,64468,1,"PhD","Administration",8113,1
+"Male","Financial Analyst",45,75397,2,"High School","Operations",6490,1
+"Female","IT",22,37780,1,"Masters","Sales",8443,0
+"Male","Warehouse Associate",25,58130,1,"Masters","Engineering",6327,0
+"Female","IT",48,88152,3,"PhD","Operations",8857,0
+"Male","Software Engineer",64,139068,4,"PhD","Engineering",4126,0
+"Male","Financial Analyst",58,104744,3,"Masters","Operations",6425,0
+"Male","Financial Analyst",26,104435,4,"College","Operations",7802,0
+"Female","Driver",19,79291,2,"College","Sales",5000,0
+"Female","Manager",59,136215,2,"High School","Management",3603,0
+"Male","Software Engineer",60,127250,4,"PhD","Administration",4263,1
+"Male","Financial Analyst",36,93067,1,"PhD","Operations",5103,0
+"Female","Driver",63,104468,1,"High School","Sales",4466,0
+"Female","Marketing Associate",55,71794,1,"Masters","Operations",6685,0
+"Female","Marketing Associate",51,79237,2,"High School","Management",4453,0
+"Male","Sales Associate",29,61164,2,"Masters","Management",6346,1
+"Female","Graphic Designer",59,125770,4,"PhD","Management",8013,0
+"Male","Data Scientist",54,97311,2,"College","Sales",3083,0
+"Male","Warehouse Associate",31,66407,2,"High School","Engineering",7522,0
+"Female","Manager",62,155203,4,"Masters","Sales",7808,0
+"Female","Financial Analyst",49,92891,1,"College","Operations",3578,0
+"Male","Manager",31,110643,2,"PhD","Engineering",7291,0
+"Male","Warehouse Associate",48,62097,1,"College","Sales",7075,1
+"Male","Sales Associate",60,106798,3,"High School","Administration",5201,0
+"Male","Financial Analyst",47,64852,2,"College","Administration",8023,0
+"Female","Marketing Associate",25,39741,1,"High School","Sales",4981,1
+"Female","Warehouse Associate",47,87575,2,"College","Administration",4422,0
+"Female","Sales Associate",27,66377,2,"College","Operations",5803,0
+"Female","Marketing Associate",23,55885,2,"College","Sales",3795,0
+"Female","Sales Associate",34,102745,5,"High School","Management",6303,0
+"Male","Driver",31,82832,4,"College","Management",9958,0
+"Female","Marketing Associate",18,75294,5,"Masters","Management",6496,0
+"Male","Warehouse Associate",34,104271,4,"PhD","Engineering",10177,0
+"Female","Driver",42,120112,5,"Masters","Sales",5070,0
+"Female","Data Scientist",32,78623,4,"College","Management",9012,0
+"Male","Software Engineer",54,125572,4,"PhD","Administration",8245,1
+"Female","Sales Associate",46,83095,2,"Masters","Management",5284,1
+"Male","Manager",45,123422,3,"High School","Engineering",8894,1
+"Female","Marketing Associate",27,67530,5,"High School","Administration",9311,1
+"Male","Software Engineer",25,119024,5,"Masters","Sales",11293,0
+"Male","Financial Analyst",58,120154,4,"College","Management",6751,1
+"Male","Data Scientist",24,60736,2,"Masters","Sales",7873,0
+"Male","Sales Associate",56,82164,1,"High School","Operations",2611,1
+"Female","Graphic Designer",18,41603,1,"College","Administration",6092,0
+"Male","Manager",21,89648,3,"PhD","Operations",6573,0
+"Male","Data Scientist",30,72497,3,"College","Operations",6452,1
+"Male","Software Engineer",23,95754,3,"Masters","Engineering",6596,0
+"Male","Driver",18,56318,3,"PhD","Operations",8407,0
+"Male","Software Engineer",62,132815,3,"High School","Sales",3367,0
+"Male","Manager",48,109346,1,"College","Management",7730,0
+"Female","Graphic Designer",58,108820,3,"PhD","Sales",7776,0
+"Male","Sales Associate",18,59334,3,"Masters","Administration",5729,1
+"Male","Warehouse Associate",37,82343,1,"Masters","Administration",5232,1
+"Male","Sales Associate",22,57783,1,"High School","Administration",9306,0
+"Male","Data Scientist",26,80494,3,"High School","Management",8449,0
+"Male","Software Engineer",55,121910,3,"PhD","Management",4494,0
+"Male","Graphic Designer",39,106883,5,"Masters","Operations",5831,1
+"Male","Manager",25,131311,5,"College","Engineering",11067,1
+"Female","Warehouse Associate",37,92722,5,"High School","Engineering",8010,0
+"Female","Manager",41,113009,1,"PhD","Management",6812,0
+"Male","Graphic Designer",60,97240,1,"Masters","Engineering",5412,0
+"Female","Warehouse Associate",41,92080,3,"College","Engineering",6897,0
+"Male","Sales Associate",62,129620,3,"College","Management",5608,0
+"Female","IT",60,104589,2,"Masters","Management",4536,0
+"Female","Warehouse Associate",58,134109,4,"Masters","Management",4184,0
+"Male","Warehouse Associate",25,64994,1,"College","Operations",4310,0
+"Male","Driver",53,130082,5,"Masters","Engineering",4734,0
+"Female","Financial Analyst",48,119058,5,"College","Engineering",4037,0
+"Female","Data Scientist",57,114141,2,"PhD","Operations",3746,0
+"Male","Software Engineer",22,81503,3,"Masters","Management",9729,0
+"Male","Data Scientist",58,124166,5,"PhD","Engineering",3875,0
+"Female","Data Scientist",41,98366,2,"PhD","Engineering",6398,0
+"Female","Driver",36,88175,3,"Masters","Administration",5004,0
+"Female","Graphic Designer",22,96045,4,"Masters","Administration",9129,1
+"Female","Driver",56,101249,3,"PhD","Sales",7329,1
+"Female","Marketing Associate",64,128970,5,"PhD","Sales",7346,0
+"Male","Graphic Designer",22,69734,3,"High School","Sales",5383,1
+"Female","Warehouse Associate",59,93441,2,"College","Management",5499,0
+"Female","Graphic Designer",27,66125,1,"PhD","Sales",8465,0
+"Male","Financial Analyst",43,108719,4,"PhD","Sales",4143,0
+"Male","IT",33,84878,1,"Masters","Sales",5009,0
+"Male","Financial Analyst",64,124151,3,"High School","Administration",3392,1
+"Male","Driver",56,100859,5,"Masters","Sales",8388,1
+"Female","Financial Analyst",63,129683,3,"PhD","Engineering",5754,0
+"Female","Software Engineer",27,65711,1,"High School","Operations",7789,0
+"Male","Sales Associate",44,100091,2,"Masters","Administration",9185,1
+"Female","Financial Analyst",32,84047,4,"High School","Administration",4683,0
+"Male","Financial Analyst",36,71858,1,"Masters","Operations",7475,0
+"Male","Data Scientist",62,93742,3,"College","Operations",6580,0
+"Female","Driver",45,67150,2,"College","Sales",3255,0
+"Male","Manager",48,143887,4,"PhD","Sales",7622,0
+"Female","Graphic Designer",33,63914,1,"High School","Sales",3521,0
+"Female","Warehouse Associate",22,91568,5,"High School","Sales",7139,0
+"Male","Sales Associate",22,70595,4,"High School","Sales",5234,0
+"Male","Software Engineer",21,108476,5,"College","Management",11128,0
+"Female","Sales Associate",34,108288,4,"High School","Sales",7491,0
+"Female","Marketing Associate",53,66438,1,"College","Administration",6935,0
+"Female","Sales Associate",44,81866,3,"High School","Engineering",5183,0
+"Female","Data Scientist",55,108366,1,"PhD","Administration",5108,0
+"Male","Financial Analyst",56,100769,3,"High School","Engineering",6453,0
+"Female","IT",44,131411,5,"High School","Sales",3084,0
+"Male","Driver",24,51906,3,"College","Management",6274,0
+"Male","Sales Associate",18,80135,4,"High School","Management",9007,0
+"Female","Data Scientist",24,71105,4,"College","Administration",8623,0
+"Female","Driver",19,75919,4,"High School","Operations",5613,1
+"Female","Marketing Associate",45,59006,2,"High School","Management",5876,0
+"Female","Marketing Associate",49,104355,5,"PhD","Operations",7555,0
+"Female","Data Scientist",64,87314,1,"High School","Sales",3688,0
+"Male","Data Scientist",44,114693,3,"Masters","Management",6832,0
+"Female","Data Scientist",39,91711,3,"Masters","Operations",6775,0
+"Male","Sales Associate",24,66168,1,"High School","Administration",9242,0
+"Female","Data Scientist",43,106452,3,"PhD","Sales",5346,0
+"Male","Manager",32,118088,5,"Masters","Management",7721,0
+"Female","Marketing Associate",35,97376,5,"PhD","Engineering",9564,0
+"Male","Software Engineer",51,118282,2,"College","Management",3599,0
+"Female","Graphic Designer",31,81826,2,"College","Engineering",8375,0
+"Female","Warehouse Associate",22,76865,4,"College","Sales",8145,0
+"Female","Graphic Designer",50,76103,1,"Masters","Administration",5173,0
+"Female","Financial Analyst",30,40341,2,"High School","Operations",7320,1
+"Male","Software Engineer",65,122624,2,"High School","Sales",4165,0
+"Male","Software Engineer",64,111903,2,"High School","Operations",6824,1
+"Female","IT",59,92257,3,"PhD","Engineering",3908,0
+"Male","Financial Analyst",24,71590,3,"PhD","Engineering",5845,0
+"Male","Graphic Designer",45,101273,2,"Masters","Management",3817,0
+"Male","Financial Analyst",38,84628,1,"Masters","Administration",5680,0
+"Male","Software Engineer",59,109623,1,"Masters","Engineering",6897,0
+"Female","Manager",28,104329,4,"High School","Engineering",4962,1
+"Male","Software Engineer",65,157852,5,"High School","Management",6669,0
+"Female","Warehouse Associate",56,106722,4,"College","Administration",4044,0
+"Female","Data Scientist",29,84021,3,"High School","Engineering",9111,0
+"Male","Manager",32,117629,4,"High School","Operations",6291,0
+"Male","Graphic Designer",19,61000,1,"Masters","Sales",8872,1
+"Female","Marketing Associate",27,87435,4,"High School","Sales",9230,1
+"Female","Financial Analyst",63,95795,2,"College","Sales",5723,1
+"Female","Software Engineer",36,79177,1,"PhD","Management",3661,0
+"Female","Financial Analyst",62,101515,3,"High School","Operations",2251,0
+"Female","Financial Analyst",23,88422,5,"PhD","Administration",10768,0
+"Female","Driver",34,67210,3,"High School","Management",5662,0
+"Male","Graphic Designer",65,123371,4,"College","Management",6931,0
+"Female","IT",34,54245,1,"College","Operations",8245,0
+"Female","Financial Analyst",48,114031,4,"College","Administration",4510,0
+"Female","Warehouse Associate",38,93306,5,"College","Administration",8265,0
+"Female","Marketing Associate",23,47739,2,"High School","Sales",4829,1
+"Male","Software Engineer",65,102597,1,"High School","Engineering",5937,1
+"Male","IT",40,77881,3,"College","Administration",5569,1
+"Male","Financial Analyst",26,106194,4,"College","Engineering",9421,1
+"Female","Marketing Associate",34,51331,1,"Masters","Engineering",9130,0
+"Male","Data Scientist",33,53855,2,"High School","Engineering",4980,0
+"Male","Manager",60,148178,2,"College","Sales",6777,0
+"Male","Driver",40,88230,2,"High School","Sales",5512,0
+"Female","Marketing Associate",20,69254,4,"College","Sales",8609,0
+"Male","Graphic Designer",23,91504,5,"PhD","Management",5136,1
+"Male","Software Engineer",39,92154,1,"PhD","Management",7642,0
+"Male","Graphic Designer",47,106893,5,"College","Administration",7958,0
+"Male","Software Engineer",20,108080,4,"Masters","Sales",10154,1
+"Female","IT",22,102120,4,"High School","Sales",10215,0
+"Female","Sales Associate",35,87131,4,"College","Management",6356,0
+"Female","Marketing Associate",49,76806,3,"Masters","Sales",6662,1
+"Male","Sales Associate",24,51837,2,"PhD","Operations",4472,1
+"Female","Data Scientist",49,125770,4,"College","Engineering",7301,0
+"Male","Data Scientist",61,122352,5,"Masters","Administration",3590,0
+"Male","Driver",33,59493,1,"High School","Management",3955,0
+"Female","Marketing Associate",40,62040,3,"Masters","Administration",8056,0
+"Female","Marketing Associate",46,54945,1,"College","Administration",2991,0
+"Male","Software Engineer",29,82534,1,"High School","Management",8914,1
+"Female","Financial Analyst",35,67762,2,"Masters","Management",7449,1
+"Male","Software Engineer",40,112466,4,"PhD","Management",9493,0
+"Male","Sales Associate",45,67296,1,"High School","Engineering",4780,0
+"Male","IT",20,49622,1,"PhD","Management",5452,0
+"Female","IT",45,70846,2,"College","Operations",7404,1
+"Male","Data Scientist",51,110731,4,"PhD","Operations",8643,1
+"Male","Data Scientist",40,87682,2,"Masters","Management",4152,0
+"Female","Warehouse Associate",44,79334,1,"High School","Administration",6505,0
+"Female","Financial Analyst",54,90999,2,"Masters","Operations",2963,0
+"Male","Financial Analyst",60,121728,4,"High School","Engineering",7932,0
+"Male","Graphic Designer",61,105632,2,"Masters","Engineering",6394,0
+"Female","Warehouse Associate",36,74938,3,"College","Management",8234,0
+"Female","Marketing Associate",32,73404,3,"College","Sales",5038,0
+"Male","Graphic Designer",43,82057,2,"PhD","Management",5268,1
+"Female","Financial Analyst",58,98512,1,"PhD","Engineering",4548,0
+"Male","Manager",60,157644,3,"College","Management",7213,1
+"Female","Sales Associate",52,94154,3,"High School","Sales",3964,0
+"Male","Warehouse Associate",54,118322,4,"Masters","Engineering",5224,0
+"Female","Driver",38,77751,2,"Masters","Management",6554,0
+"Male","Manager",57,150914,5,"PhD","Operations",5982,0
+"Male","Graphic Designer",58,96609,1,"Masters","Operations",3044,0
+"Female","Warehouse Associate",35,95584,4,"PhD","Operations",9745,0
+"Female","Marketing Associate",20,60070,5,"PhD","Sales",8273,0
+"Female","Marketing Associate",36,91713,5,"High School","Operations",7627,0
+"Male","IT",18,56309,1,"PhD","Sales",7559,1
+"Male","Sales Associate",49,101140,2,"Masters","Operations",4851,0
+"Male","Manager",52,110078,1,"High School","Management",1703,0
+"Male","Warehouse Associate",38,83774,3,"College","Management",7127,1
+"Female","Sales Associate",24,66887,2,"High School","Administration",5014,0
+"Female","Warehouse Associate",24,99545,5,"College","Administration",9949,0
+"Male","Manager",48,106056,1,"PhD","Operations",4161,0
+"Male","Manager",48,138851,5,"College","Management",6929,1
+"Male","Data Scientist",32,87121,3,"PhD","Management",8703,0
+"Male","Financial Analyst",19,60892,2,"Masters","Operations",8462,0
+"Male","Software Engineer",59,155834,4,"Masters","Engineering",7101,0
+"Female","Warehouse Associate",41,82453,2,"College","Operations",9564,0
+"Female","Warehouse Associate",31,101154,5,"PhD","Operations",10324,0
+"Male","Software Engineer",36,86375,1,"Masters","Operations",3368,1
+"Male","Financial Analyst",64,96777,3,"High School","Operations",7736,0
+"Male","Manager",52,104526,2,"High School","Operations",7253,0
+"Female","IT",41,100014,3,"High School","Operations",8621,0
+"Male","Graphic Designer",44,107818,5,"Masters","Engineering",5281,1
+"Female","Data Scientist",46,107476,3,"College","Administration",6182,0
+"Male","Warehouse Associate",22,58219,2,"Masters","Engineering",9868,0
+"Female","Financial Analyst",36,92622,3,"Masters","Administration",8509,0
+"Male","Warehouse Associate",36,108446,5,"PhD","Engineering",9210,0
+"Female","IT",62,126370,4,"College","Sales",6032,0
+"Male","Manager",22,103156,2,"College","Management",6277,0
+"Female","Manager",45,144146,5,"High School","Management",6340,0
+"Male","Software Engineer",50,119522,1,"PhD","Sales",4650,0
+"Male","Warehouse Associate",45,84930,2,"High School","Operations",6914,0
+"Male","Sales Associate",28,85986,3,"College","Management",8160,1
+"Male","Software Engineer",62,119069,3,"High School","Management",2788,0
+"Male","Software Engineer",43,101262,5,"PhD","Management",7794,0
+"Female","Warehouse Associate",25,80192,4,"Masters","Engineering",8747,0
+"Male","Data Scientist",65,128730,2,"Masters","Sales",3247,1
+"Male","Graphic Designer",34,86766,3,"Masters","Management",9841,1
+"Female","IT",62,99369,2,"College","Operations",6746,0
+"Male","IT",39,93335,4,"High School","Engineering",5243,1
+"Male","Sales Associate",28,52290,1,"PhD","Administration",9330,0
+"Male","Financial Analyst",48,92347,1,"High School","Operations",2724,1
+"Male","Warehouse Associate",48,68639,2,"PhD","Management",9553,1
+"Male","Warehouse Associate",23,81988,4,"College","Management",7160,0
+"Male","Data Scientist",28,82850,3,"Masters","Sales",5794,1
+"Male","Driver",37,70088,3,"College","Engineering",8244,1
+"Female","Driver",62,88781,1,"PhD","Engineering",6413,0
+"Female","Graphic Designer",45,75017,3,"High School","Management",5576,0
+"Male","Warehouse Associate",53,128669,5,"PhD","Engineering",6866,0
+"Female","Marketing Associate",26,62866,1,"College","Operations",5114,0
+"Male","IT",43,67323,1,"College","Management",4680,0
+"Male","Data Scientist",45,104290,3,"Masters","Operations",3474,0
+"Female","Financial Analyst",24,80030,4,"High School","Management",5481,1
+"Female","Marketing Associate",56,95995,3,"High School","Sales",4045,0
+"Female","IT",53,112169,2,"High School","Administration",2763,0
+"Female","Marketing Associate",53,66028,1,"Masters","Operations",3745,0
+"Female","Manager",57,145095,3,"Masters","Operations",3889,1
+"Female","Sales Associate",30,91566,4,"High School","Administration",6996,0
+"Female","Financial Analyst",47,63300,2,"College","Operations",3655,0
+"Female","Financial Analyst",43,117554,3,"PhD","Management",8369,0
+"Male","Driver",49,118629,5,"Masters","Administration",6740,0
+"Female","Financial Analyst",49,67089,1,"PhD","Engineering",3078,0
+"Female","Driver",22,60026,1,"High School","Administration",4605,0
+"Male","Graphic Designer",50,84803,1,"Masters","Management",5406,1
+"Female","Financial Analyst",36,65750,2,"College","Engineering",6177,0
+"Male","Sales Associate",49,91342,3,"High School","Operations",4516,0
+"Female","Graphic Designer",33,112976,5,"High School","Engineering",9836,0
+"Male","Warehouse Associate",58,133927,4,"College","Sales",8278,0
+"Female","Financial Analyst",43,113180,5,"High School","Sales",9089,0
+"Female","Sales Associate",18,64920,1,"Masters","Engineering",4967,0
+"Female","Financial Analyst",50,94590,2,"PhD","Operations",5327,0
+"Female","Data Scientist",51,139141,5,"PhD","Sales",4969,0
+"Male","Manager",61,136836,1,"College","Sales",4070,1
+"Male","Software Engineer",22,67913,1,"College","Sales",4045,0
+"Male","Software Engineer",21,132823,5,"PhD","Engineering",9625,0
+"Male","Sales Associate",64,121589,2,"PhD","Sales",5133,0
+"Female","Data Scientist",33,73798,1,"College","Sales",6224,0
+"Male","Financial Analyst",50,115613,3,"Masters","Operations",3881,0
+"Male","Data Scientist",43,107640,4,"PhD","Administration",3896,0
+"Female","Graphic Designer",48,103133,4,"College","Administration",7793,0
+"Male","Sales Associate",19,75238,3,"PhD","Management",5308,0
+"Female","Marketing Associate",26,36585,1,"High School","Management",4373,0
+"Male","Manager",53,123114,1,"College","Management",6946,0
+"Female","IT",36,75518,3,"PhD","Management",6711,0
+"Male","Data Scientist",56,95798,2,"Masters","Administration",2530,0
+"Female","Graphic Designer",49,95169,2,"PhD","Engineering",7415,0
+"Female","Financial Analyst",23,101534,5,"College","Administration",6861,0
+"Male","Driver",20,68175,2,"High School","Sales",5698,0
+"Female","Data Scientist",39,91099,3,"PhD","Management",8306,0
+"Male","Manager",23,90685,1,"PhD","Administration",8816,0
+"Male","Financial Analyst",20,105601,4,"PhD","Engineering",5943,1
+"Female","Marketing Associate",64,107572,5,"College","Administration",3107,0
+"Female","Manager",55,135638,3,"High School","Administration",2824,0
+"Male","Data Scientist",32,103908,4,"PhD","Sales",8109,1
+"Male","Sales Associate",23,85928,3,"High School","Engineering",7229,0
+"Female","Graphic Designer",52,66529,1,"College","Administration",7067,0
+"Female","Graphic Designer",35,97768,5,"High School","Engineering",7233,1
+"Female","Warehouse Associate",62,102106,2,"PhD","Engineering",5195,0
+"Male","Financial Analyst",44,119381,4,"Masters","Administration",9345,0
+"Male","Manager",36,134450,3,"Masters","Sales",5214,0
+"Male","Warehouse Associate",65,107479,2,"High School","Operations",2051,0
+"Female","Driver",21,92458,5,"College","Engineering",6966,0
+"Male","Software Engineer",40,120096,1,"Masters","Sales",4690,1
+"Female","Driver",60,113140,3,"PhD","Sales",4079,0
+"Male","Driver",57,68403,1,"College","Management",6893,1
+"Male","Financial Analyst",24,83323,3,"PhD","Sales",9329,1
+"Female","Graphic Designer",20,55569,4,"Masters","Operations",5236,0
+"Male","Driver",55,103328,2,"College","Administration",4543,0
+"Male","Driver",58,110157,4,"College","Sales",4275,0
+"Male","Graphic Designer",59,135512,4,"PhD","Sales",3955,0
+"Male","Data Scientist",31,75227,1,"College","Operations",6027,0
+"Male","Sales Associate",30,115165,5,"Masters","Sales",8841,0
+"Male","Data Scientist",41,77839,5,"College","Operations",4458,0
+"Female","Data Scientist",61,97000,2,"Masters","Management",7757,1
+"Female","Data Scientist",32,46693,1,"PhD","Engineering",8457,0
+"Female","Sales Associate",21,85398,5,"College","Operations",7113,0
+"Female","Marketing Associate",59,62738,1,"College","Engineering",2656,0
+"Male","Sales Associate",36,49553,1,"High School","Management",5784,0
+"Female","Data Scientist",45,113252,5,"PhD","Management",10139,0
+"Female","Financial Analyst",45,122142,5,"Masters","Administration",5435,0
+"Male","Software Engineer",42,114029,3,"College","Administration",6842,0
+"Female","Data Scientist",57,113274,3,"Masters","Operations",6186,0
+"Female","Data Scientist",21,70643,3,"PhD","Operations",10033,1
+"Female","Financial Analyst",52,100070,2,"High School","Engineering",7169,1
+"Male","Driver",54,110049,4,"PhD","Administration",8928,1
+"Male","Graphic Designer",35,88566,3,"PhD","Management",9469,0
+"Female","IT",54,96982,3,"Masters","Administration",4750,0
+"Male","Graphic Designer",27,114680,5,"College","Sales",8472,1
+"Male","Data Scientist",57,106918,3,"Masters","Sales",3180,0
+"Male","IT",64,98100,2,"PhD","Management",7460,0
+"Female","Financial Analyst",54,114171,2,"College","Sales",3768,0
+"Male","IT",55,91447,1,"Masters","Operations",3196,0
+"Female","IT",26,53956,2,"College","Administration",9454,0
+"Female","Graphic Designer",38,111041,4,"High School","Administration",3727,0
+"Female","Manager",62,146008,3,"Masters","Administration",6235,0
+"Male","Data Scientist",49,93320,3,"College","Administration",7236,0
+"Male","Driver",63,101716,2,"High School","Sales",5881,0
+"Male","Manager",59,176789,5,"PhD","Sales",6773,0
+"Male","Financial Analyst",32,78132,3,"Masters","Sales",8035,0
+"Male","Manager",53,121506,2,"College","Sales",6122,1
+"Male","Software Engineer",60,106045,3,"High School","Administration",3079,0
+"Female","Warehouse Associate",63,106158,2,"High School","Sales",7654,0
+"Male","Warehouse Associate",53,126256,4,"College","Operations",3463,1
+"Male","Driver",27,89678,5,"College","Engineering",7778,1
+"Male","Software Engineer",42,121821,5,"Masters","Engineering",6499,0
+"Female","IT",28,41151,1,"High School","Management",4296,0
+"Female","Financial Analyst",36,119931,5,"High School","Administration",8400,0
+"Male","Software Engineer",30,83264,4,"College","Administration",6251,0
+"Female","Driver",24,91049,5,"High School","Administration",10375,0
+"Male","Driver",53,100941,2,"PhD","Sales",5992,0
+"Male","Data Scientist",22,50401,2,"High School","Management",8590,0
+"Male","Sales Associate",63,136209,3,"Masters","Engineering",3910,1
+"Male","Software Engineer",35,110886,3,"Masters","Management",6228,0
+"Female","Warehouse Associate",19,64844,2,"College","Sales",9042,0
+"Female","Financial Analyst",53,93696,1,"High School","Management",5029,0
+"Male","Graphic Designer",57,132873,4,"Masters","Management",7266,0
+"Female","Sales Associate",47,84935,2,"College","Engineering",6122,1
+"Male","Manager",21,103107,3,"High School","Engineering",9036,0
+"Female","Graphic Designer",34,99942,4,"College","Management",5352,0
+"Male","Graphic Designer",30,36642,2,"College","Operations",4388,0
+"Female","Driver",45,76700,3,"PhD","Management",7242,0
+"Female","Warehouse Associate",57,86423,2,"PhD","Administration",8058,1
+"Female","Driver",21,89170,4,"PhD","Management",6722,0
+"Female","Graphic Designer",63,81545,2,"College","Administration",3418,1
+"Female","Marketing Associate",49,102201,4,"College","Sales",7640,1
+"Female","Warehouse Associate",55,85453,3,"PhD","Administration",5135,0
+"Male","Software Engineer",19,100305,4,"Masters","Administration",9618,0
+"Female","Driver",41,73801,1,"Masters","Administration",8317,0
+"Male","Manager",23,103479,3,"Masters","Sales",7850,1
+"Female","Sales Associate",24,76522,3,"Masters","Management",6900,0
+"Male","Software Engineer",29,74316,1,"High School","Engineering",8761,0
+"Female","Graphic Designer",59,115344,4,"College","Engineering",4827,0
+"Male","IT",63,133472,5,"Masters","Operations",8688,0
+"Female","Data Scientist",37,98010,2,"Masters","Engineering",8210,0
+"Female","Marketing Associate",64,85253,2,"PhD","Administration",2777,0
+"Female","Warehouse Associate",34,114479,5,"PhD","Management",6700,0
+"Female","Sales Associate",29,64754,3,"High School","Management",7377,0
+"Male","Software Engineer",65,134758,1,"Masters","Sales",7500,1
+"Female","Data Scientist",57,90713,1,"PhD","Sales",6552,0
+"Female","Graphic Designer",18,42363,2,"College","Operations",9938,1
+"Female","Financial Analyst",47,146190,5,"High School","Sales",8961,0
+"Female","Data Scientist",53,102265,2,"PhD","Operations",4760,0
+"Female","Financial Analyst",41,91129,3,"PhD","Operations",4825,0
+"Male","Graphic Designer",54,100160,3,"High School","Management",5562,0
+"Male","Data Scientist",57,108977,2,"Masters","Sales",3567,0
+"Male","Sales Associate",35,103007,5,"Masters","Management",10512,0
+"Female","Manager",34,106560,2,"Masters","Management",7257,0
+"Male","Marketing Associate",40,116834,5,"PhD","Sales",5516,0
+"Female","IT",28,105598,5,"PhD","Sales",5380,0
+"Female","IT",43,94354,4,"Masters","Management",7052,0
+"Male","Manager",20,107140,2,"College","Sales",8199,0
+"Male","Graphic Designer",49,106887,4,"College","Management",8347,0
+"Female","Financial Analyst",39,76773,1,"College","Operations",7278,0
+"Male","Sales Associate",62,102593,2,"Masters","Administration",1823,1
+"Female","IT",48,61081,1,"High School","Management",6337,0
+"Male","Driver",41,95795,4,"Masters","Administration",4898,0
+"Male","Manager",63,130093,1,"Masters","Operations",6416,0
+"Male","Manager",37,121151,1,"Masters","Management",5934,0
+"Male","Warehouse Associate",46,76517,1,"PhD","Sales",8502,0
+"Male","Marketing Associate",26,77793,5,"High School","Engineering",8700,0
+"Male","Manager",36,115742,2,"High School","Operations",3661,0
+"Female","Sales Associate",33,83034,3,"High School","Engineering",8841,0
+"Female","Marketing Associate",55,69928,2,"College","Sales",4811,0
+"Female","Warehouse Associate",19,90208,5,"PhD","Administration",9268,0
+"Female","IT",38,75932,2,"High School","Sales",7003,1
+"Male","Data Scientist",18,55189,2,"High School","Operations",9405,0
+"Male","Warehouse Associate",42,90000,3,"PhD","Operations",4774,0
+"Female","Driver",18,62759,3,"College","Management",10124,0
+"Male","Manager",55,152710,5,"College","Management",6107,0
+"Female","Data Scientist",53,84764,2,"Masters","Engineering",4409,0
+"Female","Driver",55,100433,2,"PhD","Operations",5090,0
+"Female","Marketing Associate",41,73989,3,"College","Sales",8780,0
+"Male","Warehouse Associate",50,90612,1,"Masters","Administration",5913,0
+"Male","IT",28,64958,3,"High School","Operations",7910,1
+"Female","Sales Associate",33,87418,4,"College","Engineering",6430,0
+"Female","Sales Associate",58,86795,3,"College","Operations",3453,1
+"Female","Marketing Associate",64,100316,5,"College","Sales",6010,0
+"Female","Marketing Associate",34,96061,5,"High School","Sales",9093,0
+"Male","Driver",53,111043,3,"PhD","Administration",5838,0
+"Male","Warehouse Associate",19,63928,2,"High School","Sales",4998,0
+"Female","Warehouse Associate",48,111342,5,"College","Management",10122,0
+"Male","IT",57,109645,3,"High School","Sales",5472,1
+"Male","Software Engineer",26,61527,2,"High School","Sales",6345,1
+"Male","Manager",62,150467,3,"PhD","Engineering",8100,0
+"Male","Graphic Designer",20,99543,5,"Masters","Engineering",6111,1
+"Male","Sales Associate",58,118888,3,"PhD","Administration",7438,0
+"Female","Marketing Associate",20,76286,4,"Masters","Administration",9479,1
+"Male","Manager",52,114943,2,"High School","Operations",3438,0
+"Male","Marketing Associate",49,92797,4,"High School","Administration",5405,0
+"Male","IT",52,93802,5,"College","Administration",5404,0
+"Female","IT",37,56656,2,"High School","Sales",5914,0
+"Female","Graphic Designer",34,75316,3,"PhD","Operations",5861,0
+"Male","Manager",31,80259,1,"College","Operations",4791,1
+"Male","Graphic Designer",55,79144,1,"Masters","Engineering",8328,0
+"Male","Financial Analyst",33,69878,1,"Masters","Operations",8389,0
+"Male","Warehouse Associate",61,126375,4,"PhD","Engineering",6630,0
+"Male","Graphic Designer",63,105800,1,"PhD","Engineering",7822,1
+"Male","Manager",37,100819,1,"PhD","Operations",5390,0
+"Male","Software Engineer",64,120593,4,"College","Sales",7573,0
+"Male","Sales Associate",51,98499,2,"High School","Management",6274,1
+"Male","Graphic Designer",55,75833,2,"College","Sales",6942,1
+"Female","IT",46,98456,3,"High School","Operations",7177,1
+"Male","Software Engineer",31,88724,2,"PhD","Sales",8949,1
+"Female","Sales Associate",28,89570,3,"PhD","Sales",7411,0
+"Female","Software Engineer",28,103763,4,"PhD","Engineering",8383,1
+"Male","Financial Analyst",22,69320,2,"PhD","Administration",6765,1
+"Female","Driver",31,57070,2,"Masters","Engineering",6615,0
+"Female","Graphic Designer",20,67585,4,"College","Sales",10541,0
+"Male","Driver",44,83333,4,"High School","Administration",7113,0
+"Male","Graphic Designer",24,59399,2,"College","Engineering",6692,1
